@@ -174,7 +174,7 @@ GitHub: @N1N0u
 Project Link: https://github.com/N1N0u/GestionEnseignants
 <p align="center">
   <i>Built with ❤️ for educational purposes</i><br>
-  <sub>L2 Computer Science Project - Academic Year 2023-2024</sub>
+  <sub>L2 Computer Science Project - Academic Year 2016-2017</sub>
 </p>
 ```
 
